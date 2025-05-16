@@ -195,7 +195,7 @@ export default {
 }
 
 .form-section {
-  flex: 1;
+  flex: 1.2; /* Increased width */
   background: #fff;
   border-radius: 12px;
   padding: 25px;
@@ -203,7 +203,7 @@ export default {
 }
 
 .json-section {
-  flex: 1.2;
+  flex: 0.6; /* Reduced width */
   background: #252f4a;
   color: #eee;
   border-radius: 12px;
